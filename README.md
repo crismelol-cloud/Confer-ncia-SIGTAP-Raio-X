@@ -1,4 +1,4 @@
-# Conferência SIGTAP — Raio-X e Densitometria
+# Conferência SIGTAP — Raio-X
 
 Ferramenta interna da Secretaria Municipal de Saúde de Franca/SP.
 
